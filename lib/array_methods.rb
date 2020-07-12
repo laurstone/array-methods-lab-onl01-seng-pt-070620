@@ -1,6 +1,6 @@
 def using_include(array, element)
 
-using_include = ["wow", "I", "am", "really", "learning", "arrays!"]
+array = ["wow", "I", "am", "really", "learning", "arrays!"]
 array.include?
 
 end
